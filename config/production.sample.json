@@ -4,7 +4,7 @@
 	"readonly": false,
 
 	"webservice": {
-		"database": "mongodb://localhost/pa11y-webservice",
+		"database": "mongodb+srv://eyal:DJrakrVxjn9zk3P@cluster0.xxltr.mongodb.net/pa11y-webservice",
 		"host": "0.0.0.0",
 		"port": 3000,
 		"cron": "0 30 0 * * *"
